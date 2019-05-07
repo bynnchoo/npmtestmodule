@@ -1,6 +1,4 @@
-// var sum = require('./index');
-
-var test1 = require('./index');
+var sum = require('./index');
 
 
-console.log(test1.sum(1, 2));
+console.log(sum(1, 2));

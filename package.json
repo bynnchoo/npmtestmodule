@@ -1,12 +1,20 @@
 {
-  "name": "test1",
+  "name": "npmtestmodule-zhunb",
   "version": "1.0.0",
-  "description": "",
+  "description": "first test module",
   "main": "index.js",
   "scripts": {
     "test": "node test1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "zhunb319@gmail.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhunb319/npmtestmodule.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhunb319/npmtestmodule/issues"
+  },
+  "homepage": "https://github.com/zhunb319/npmtestmodule#readme"
 }
